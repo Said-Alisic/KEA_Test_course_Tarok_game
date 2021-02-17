@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f78606-6ccd-4c8f-a3ea-e96361fcc9c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tarot_src/game/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tarot_src/game/ScoreBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test_assignment_1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/game/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/game/ScoreBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/models/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/models/Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tarot_src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tarot_src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tarot_src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tarot_src/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tarot_src/game/ScoreBoard.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tarot_src/models/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tarot_src/models/Card.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tarot_src/models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tarot_src/models/Player.java" afterDir="false" />
     </list>
@@ -111,7 +116,7 @@
       <workItem from="1612430966828" duration="53000" />
       <workItem from="1613028248514" duration="112000" />
       <workItem from="1613029210281" duration="1525000" />
-      <workItem from="1613557582628" duration="3559000" />
+      <workItem from="1613557582628" duration="6618000" />
     </task>
     <servers />
   </component>
@@ -136,30 +141,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1613560099925" />
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1613561906327">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1613563541809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1613561906327" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1613563541809" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1613029268734">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613029268734" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613560395635">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613564270233">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613560395635" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613560395635">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613564270233" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613564270232">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613560395635" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613560395634">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613564270232" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613564270232">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613560395634" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613560395635">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613564270232" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613564270232">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613560395635" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613564270232" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1613560067374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

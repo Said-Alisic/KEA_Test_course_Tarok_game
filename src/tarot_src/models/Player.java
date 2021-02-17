@@ -5,7 +5,7 @@ public class Player {
     // Attributes
     private int playerId;
     private String playerName;
-    private int points = 100;
+    private int points = 0;
 
 
     public int getPlayerId() {
@@ -32,7 +32,4 @@ public class Player {
         this.points = this.points - addition;
     }
 
-    public void subtractPoints(int subtraction) {
-        this.points = this.points - subtraction;
-    }
 }
