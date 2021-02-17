@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f78606-6ccd-4c8f-a3ea-e96361fcc9c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/test_assignment_1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/game/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/game/ScoreBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/models/Card.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/models/Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test_assignment_1/tarot_src/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tarot_src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tarot_src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tarot_src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tarot_src/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tarot_src/game/ScoreBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tarot_src/models/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tarot_src/models/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tarot_src/models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tarot_src/models/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +106,7 @@
       <workItem from="1612430966828" duration="53000" />
       <workItem from="1613028248514" duration="112000" />
       <workItem from="1613029210281" duration="1525000" />
-      <workItem from="1613557582628" duration="6618000" />
+      <workItem from="1613557582628" duration="7418000" />
     </task>
     <servers />
   </component>
