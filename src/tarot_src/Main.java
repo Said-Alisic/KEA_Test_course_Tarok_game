@@ -13,6 +13,7 @@ public class Main {
     private static Scanner scn = new Scanner(System.in);  // Create a Scanner object
     private static Game game = new Game();
 
+    @Test
     public static void main(String[] args) {
 
         ArrayList<Player> players = displayPlayers(game);
@@ -39,6 +40,7 @@ public class Main {
         return players;
     }
 
+    @Test
     private static void promptAnnouncement(Player player) {
 
         System.out.println(" -- " + player.getPlayerName() + "\'s turn to announce!!! ");
