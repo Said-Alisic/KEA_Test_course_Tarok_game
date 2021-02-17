@@ -29,7 +29,7 @@ public class Player {
     }
 
     public void addPoints(int addition) {
-        this.points = this.points - addition;
+        this.points = this.points + addition;
     }
 
 }

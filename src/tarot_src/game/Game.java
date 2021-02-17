@@ -22,9 +22,9 @@ public class Game {
         return players;
     }
 
-    public static Player updatePlayerScore(Player player, int points) {
-        player.addPoints(points);
-        return player;
+    public static void updatePlayerScore(Player player, int points) {
+        player.addPoints(announcementPoints(points));
+
     }
 
     // Implementing player announce game logic as dummy implementation
@@ -49,6 +49,7 @@ public class Game {
             case 8: // overfull cavalry
                 return 15;
             default:
+                System.exit(0);
                 return 0;
         }
     }
