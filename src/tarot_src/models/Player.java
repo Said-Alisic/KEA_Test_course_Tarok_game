@@ -7,11 +7,6 @@ public class Player {
     private String playerName;
     private int points = 100;
 
-    // Constructor
-    public Player(int playerId, String playerName) {
-        this.playerId = playerId;
-        this.playerName = playerName;
-    }
 
     public int getPlayerId() {
         return this.playerId;
